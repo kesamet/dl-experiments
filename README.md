@@ -1,10 +1,9 @@
 # Deep learning experiments
 
 This repository contains experimental codes for
-- several variational autoencoders
+- VAEs
 - neural collaborative filtering
 - quasi RNN
-- sequence-to-sequence learning and translation
 - text classifiers
 - CNN
 
