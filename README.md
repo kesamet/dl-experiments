@@ -1,25 +1,15 @@
-# Deep learning experiments
-
-This repository contains experimental codes for
+# notebooks
+This repository contains experimental code for
 - VAEs
 - neural collaborative filtering
-- quasi RNN
-- text classifiers
-- CNN
-
-as well as BERT multilanguage (in particular, Indonesian and Chinese)
-- Named-entity recognition
-- Next sentence prediction
-- Sentence embeddings
-- Toxic Comment Classification
+- etc
 
 ## Requirements
-
-- Python==3.6
-- numpy==1.17.2
-- pandas==0.25.1
+- Python==3.8
+- numpy==1.20.2
+- pandas==1.2.3
 - tensorflow==1.14.0
 - Keras==2.3.0
-- torch==1.1.0
-- torchvision==0.3.0
-- seqeval==0.0.12
+- torch==1.7.1
+- torchvision==0.8.2
+- transformers==4.6.1
